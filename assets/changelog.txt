@@ -1,0 +1,6 @@
+############### HIDER ###############
+
+* Agregado mostrar y ocultar temporalmente.
+* Agregado visor de versión actual.
+* Errores de versión 091020 (y anteriores) corregidos.
+
